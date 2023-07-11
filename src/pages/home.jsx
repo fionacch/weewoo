@@ -5,12 +5,12 @@ import { Link } from "wouter";
 
 // Our language strings for the header
 const strings = [
-  "Hello React",
-  "Salut React",
-  "Hola React",
-  "안녕 React",
-  "Hej React",
-  "你好 React"
+  "Hello",
+  "Salut",
+  "Hola",
+  "안녕",
+  "Hej",
+  "你好"
 ];
 
 // Utility function to choose a random value from the language array
